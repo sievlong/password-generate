@@ -7,13 +7,13 @@ Follow these steps to install:
 Linus and macOS:
 
 ```bash
-  sudo git clone
+  sudo git clone https://github.com/sievlong/password-generate.git
 ```
 
 Windows:
 
 ```bash
-  git clone
+  git clone https://github.com/sievlong/password-generate.git
 ```
 
 # Contact
